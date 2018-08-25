@@ -1,0 +1,16 @@
+td{
+	text-align: center;
+}
+
+.table-title {
+	margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.even {
+	background-color: rgba(155, 155, 155, 0.4);
+}
+
+.table {
+	border-collapse: collapse;
+}
